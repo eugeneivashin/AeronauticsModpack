@@ -1,0 +1,13 @@
+name = "Aeronautics Modpack"
+author = "Modmeister"
+version = "1.1.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c56becc93ecd5599e1c7a4d70f3b9af1d9b0c2fcb67933bfd7f2e62a7434ad75"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
