@@ -497,41 +497,41 @@ file = "mods/zombieawareness-neoforge-1.21.0-1.13.2.jar"
 hash = "8152f9fa4c0c3cdb6541ac46d852902617e80ccd121cfa43412c0b56045b40ae"
 
 [[files]]
-file = "overrides/resourcepacks/CreateSophBackpacks.zip"
+file = "resourcepacks/CreateSophBackpacks.zip"
 hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
 
 [[files]]
-file = "overrides/resourcepacks/FA+All_Extensions-v1.8.1.zip"
+file = "resourcepacks/FA+All_Extensions-v1.8.1.zip"
 hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
 
 [[files]]
-file = "overrides/resourcepacks/FA+Player-v1.0.zip"
+file = "resourcepacks/FA+Player-v1.0.zip"
 hash = "b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b"
 
 [[files]]
-file = "overrides/resourcepacks/FreshAnimations_v1.10.4.zip"
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 
 [[files]]
-file = "overrides/resourcepacks/FreshCompats_v1.6.zip"
+file = "resourcepacks/FreshCompats_v1.6.zip"
 hash = "0fe5e8edb0d7806fe8aa703ce61a6f2f2ec6ed0dd2e1afbf7ee617a33321445f"
 
 [[files]]
-file = "overrides/resourcepacks/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
+file = "resourcepacks/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
 hash = "c037a7cfa347260baffd2a1270624e9746c6a01ab75dc40f594542d8fca33f49"
 
 [[files]]
-file = "overrides/resourcepacks/Icons v.1.13.3.zip"
+file = "resourcepacks/Icons v.1.13.3.zip"
 hash = "cee59fa82d427e8ace2669254ef23650427e0cdff4f0fac6b90be79674baffe3"
 
 [[files]]
-file = "overrides/resourcepacks/Visual.Effects+.zip"
+file = "resourcepacks/Visual.Effects+.zip"
 hash = "7cc1f44402adb1c10a32b1ce5a35d7e97de1127a1f7c4a723df20da569c67432"
 
 [[files]]
-file = "overrides/resourcepacks/crops-3d(2).zip"
+file = "resourcepacks/crops-3d(2).zip"
 hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
 
 [[files]]
-file = "overrides/resourcepacks/§3Blue's §fBetter Zombies §7v0.13.zip"
+file = "resourcepacks/§3Blue's §fBetter Zombies §7v0.13.zip"
 hash = "d1b37990bfb261cee6bd22e0f7fa88f03993e6257b76e3cd590f1a9c192866fb"
