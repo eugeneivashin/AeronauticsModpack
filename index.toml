@@ -221,10 +221,6 @@ file = "mods/createWindmillFix.jar"
 hash = "df5ad3857930ab31a589e0f2be0cf92b9d5b408f2a5f02af138e584022091b58"
 
 [[files]]
-file = "mods/create_radar-0.4.9.4-1.21.1.jar"
-hash = "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930"
-
-[[files]]
 file = "mods/createaddition-1.6.0.jar"
 hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
 
