@@ -37,8 +37,8 @@ file = "mods/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
 hash = "9b01eb578d8ba1e6fd463e7cc5fad33c484e5cef1ffd9ed77ef9c02424c40801"
 
 [[files]]
-file = "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
-hash = "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
+file = "mods/DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar"
+hash = "6c89d899c17d0847d07d963225f14f1c00ddadbdd5ada74780f827c75a0080b0"
 
 [[files]]
 file = "mods/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
@@ -65,8 +65,8 @@ file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
 hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
 
 [[files]]
-file = "mods/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar"
-hash = "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0"
+file = "mods/ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar"
+hash = "258623778012daad6fdd8793add3324b970df62a07c477697c43fe85deef1db6"
 
 [[files]]
 file = "mods/MoogsVoyagerStructures-1.21-5.0.11.jar"
@@ -97,8 +97,8 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
-file = "mods/Terralith_1.21.x_v2.5.8.jar"
-hash = "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+file = "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+hash = "d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546"
 
 [[files]]
 file = "mods/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
@@ -171,10 +171,6 @@ hash = "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322"
 [[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
 hash = "b18c734fb574c05c78dd33c4cd4c152e55efc8aecc0b6de876cc21be3c147f7f"
-
-[[files]]
-file = "mods/chat_heads-0.15.1-neoforge-1.21.jar"
-hash = "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
 
 [[files]]
 file = "mods/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
@@ -273,8 +269,8 @@ file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
 hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
 
 [[files]]
-file = "mods/dynamictrees-neoforge-1.21.1-1.7.1.jar"
-hash = "f9ba373ca31cd816ec741c0b11293c90f9a990b33236a66026712cbf7fa046d2"
+file = "mods/dynamictrees-neoforge-1.21.1-1.7.2.jar"
+hash = "ef94737b99e68a0b489b56f901fcc71a3ac8e7a16e3a22ac8413c5f66df566f0"
 
 [[files]]
 file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
@@ -289,12 +285,12 @@ file = "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar"
 hash = "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
 
 [[files]]
-file = "mods/envelope-neoforge-1.21.1-0.6.0.jar"
-hash = "ac639a3591f95d3bdd41e38dadc95a41ac7dac7045991abc8a38771e4132d529"
+file = "mods/envelope-neoforge-1.21.1-0.6.2.jar"
+hash = "5ed3f0797c2c752739071c52bd77e8f7ff18a11224d9679176ab25387ab9d7b9"
 
 [[files]]
-file = "mods/exposure-neoforge-1.21.1-1.9.16.jar"
-hash = "c4adfe346094cf4ce0008c98bf0d20d7c96b9291b3cd31ff2234495eaca2bb58"
+file = "mods/exposure-neoforge-1.21.1-1.9.18.jar"
+hash = "674c537a99f69b2bae53521c95dae59bc5f4eb2eb15418eec0ecbaf36b53d888"
 
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
@@ -325,8 +321,8 @@ file = "mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
 hash = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
 
 [[files]]
-file = "mods/idas-1.13.6+1.21.1-neoforge.jar"
-hash = "0ad280c4585aebf0ee8ec355a605ff2d8ced5999b1b765ed54b0bc43edbdfc15"
+file = "mods/idas-1.13.7+1.21.1-neoforge.jar"
+hash = "7f5031dd90ae0b32d7fe5c6c47c877cac1eb95a178bc78d196cb24c17ce82522"
 
 [[files]]
 file = "mods/improvedmobs-1.21.1-1.15.2-neoforge.jar"
@@ -349,12 +345,12 @@ file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
-file = "mods/irons_lib-1.21.1-1.0.2.jar"
-hash = "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"
+file = "mods/irons_lib-1.21.1-1.1.0.jar"
+hash = "92aa20968d51a65267218aafe757cae2a3330f5f552ab8594510d89fded84989"
 
 [[files]]
-file = "mods/irons_spellbooks-1.21.1-3.15.6.jar"
-hash = "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d"
+file = "mods/irons_spellbooks-1.21.1-3.16.1.jar"
+hash = "e917dfdb9ced0cae0e5d9c471cae5b427855b31b0015872ec376ab2bdde373a7"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
@@ -377,8 +373,8 @@ file = "mods/lithium-neoforge-0.15.3+mc1.21.1.jar"
 hash = "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
 
 [[files]]
-file = "mods/lithostitched-1.7.7-neoforge-21.1.jar"
-hash = "b6f201cfeaf72db13d661136fdb92f2d268e75f9e7b37403451bdb1a828c9b04"
+file = "mods/lithostitched-1.7.9-neoforge-21.1.jar"
+hash = "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
 
 [[files]]
 file = "mods/mcqoy-0.4.1+neo-1.21.jar"
@@ -393,8 +389,8 @@ file = "mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
 hash = "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
 
 [[files]]
-file = "mods/modernfix-neoforge-5.27.11+mc1.21.1.jar"
-hash = "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
+file = "mods/modernfix-neoforge-5.27.14+mc1.21.1.jar"
+hash = "efc89cb7d22b932ecad19777373688035a1c444443abe8e56d236c44b59c0301"
 
 [[files]]
 file = "mods/moogs_structures-neoforge-1.21.1-2.0.2.jar"
@@ -461,12 +457,12 @@ file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
 hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.49.1768.jar"
-hash = "21628a46019e66b68cde2e62979667665c2a2f33b66ba8be78856cdbe7cb7ce1"
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar"
+hash = "a2058bdefc75f6143cb8257463a734a2d5a733d9920f3111ed891277b3655374"
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.41.1867.jar"
-hash = "12107b78a25a95475c5a95744e921fec2dbeeb21dd3a65bb6ebb63d06055a7de"
+file = "mods/sophisticatedcore-1.21.1-1.4.58.2026.jar"
+hash = "70a5db0b1aa1d4095ca5847d1480603e01861ba7d54afa7bb144559a0efea523"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
@@ -517,8 +513,8 @@ file = "resourcepacks/FA+All_Extensions-v1.8.1.zip"
 hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
 
 [[files]]
-file = "resourcepacks/FA+Player-v1.0.zip"
-hash = "b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b"
+file = "resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"
